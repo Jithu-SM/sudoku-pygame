@@ -60,7 +60,7 @@ python main.py
 
 Enjoy the challenge of solving Sudoku! 🧠✨
 
-![Winning Animation](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
+![Winning Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJma3Nra3J3anh6emtvZTNsbGd1bmpxbDIwcjRvb2VnMmYyZXM4cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT5LMzs7nUzxyVptpS/giphy.gif)
 
 ## Contributing
 
