@@ -37,11 +37,12 @@ Make sure you have the following installed:
 
 ## Installation
 
-To install Pygame, simply run:
+To run this project, you need to have Python and Pygame installed. You can install the required dependencies using the following command:
 
-```bash
-pip install pygame
 ```
+pip install -r requirements.txt
+```
+
 
 ## Running the Game
 
