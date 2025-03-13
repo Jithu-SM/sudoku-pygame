@@ -2,7 +2,7 @@
 
 A fun and interactive Sudoku game built using Python and Pygame! 🧩🔥
 
-![Sudoku Fun](https://media.giphy.com/media/3orieUe6ejxSFxYCXe/giphy.gif)
+![Sudoku Fun](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzNzbmN4dGJrN3R4czl5ajJkc200bnk5bzl4bDYxODhmcXd3dWhyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41Yy6jvn3BXYDRu0/giphy.gif)
 
 ## Features
 
