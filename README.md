@@ -21,10 +21,10 @@ sudoku-game/
 ├── main.py
 ├── board.py
 ├── sudoku_generator.py
-├── solver.py
 ├── assets/
 │   ├── fonts/
 │   └── images/
+├── requirements.txt
 └── README.md
 ```
 
